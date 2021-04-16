@@ -1,3 +1,3 @@
-# 7406FakeNewsDetector_repo
+# ISYE7406 Course Project: Fake News Detector
 
-ISYE7406 Course Project: Fake News Detector
+### Team Member Name:Qi Hao, Yipei Zhang
